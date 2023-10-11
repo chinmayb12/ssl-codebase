@@ -1,9 +1,9 @@
 # RobocupSSL [![Build Status](https://travis-ci.com/KRSSG/robocup.svg?branch=fsm)](https://travis-ci.com/KRSSG/robocup)
 ## Requirement
-* Ubuntu 16.04
-* ROS-Kinetic
+* Ubuntu 20.04
+* ROS-Noetic
 * OMPL
-* PyQt4
+* PyQt5
 
 ## Installation
 * Follow this doc for installation instructions: https://docs.google.com/document/d/1dslgGWAXHz8jKqUmEGex7JvCxIh3FS-td155nmqGrdw/edit?usp=sharing
